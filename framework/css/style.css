@@ -1,0 +1,43 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.colored-background {
+  background-color: #173345;
+  color: #E3D1BA;
+}
+
+.no-colored-background {
+  background-color: #E3D1BA;
+  color: #173345;
+}
+
+.padding-20 {
+  padding: 20px;
+}
+
+.circle-medium {
+  padding-top: 2px;
+  width: 130px;
+  height: 130px;
+  border-radius: 65px;
+}
+
+.cats-follow {
+  width: 270px;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 20px;
+}
+
+.blue-font {
+  color: #173345;
+}
+
+.white-font {
+  color:#fff;
+}
+
+.blue-background {
+    background-color: #173345;
+}
